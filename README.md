@@ -2,7 +2,7 @@
 
 This project is focused on optimization problems in SCAD regression "http://www.personal.psu.edu/ril4/research/penlike.pdf"
 There are two main issues about SCAD regression. First one is hyper-parameters tuning("Lambda" and "a" value), 
-and the second one is to optimize non-concave penalized likelihood function.
+and the second one is to optimize non-concave penalized likelihood function. So, this project includes two optimization problems and simulation results.
 
 The main issuse of SCAD regression is its difficulty to optimize non-concave likelihood function. 
 The authors approximated this likelihood function into a quadratic form and used Newton-Raphson method.
