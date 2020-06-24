@@ -10,7 +10,7 @@ So, I followed their way for this with my own codes. And for hyper-parameters tu
 My way is one of the most popular way for hyper-parameter tuning these days.
 
 I found that SCAD can be useful to select features. They proved it has oracle properties in the article, so, it can be a reliable way for feature selection.
-And during the iterative calculation for beta coefficients, it converges so fast to the final value such as within 3 or 4 iterations.
+And during the iterative calculation for beta coefficients, it is already very close to the final value such as within 3 or 4 iterations.
 
 
 I attached my own codes and summary file for this work.
