@@ -2,6 +2,7 @@
 
 Here, I studied about SCAD article("http://www.personal.psu.edu/ril4/research/penlike.pdf") and had tried to replicate it in R. 
 SCAD is a variation of LASSO, and this can be used for feature selection based on linear regression model.
+
 This project is focused on optimization problems in SCAD regression 
 There are two main issues about SCAD regression. First one is hyper-parameters tuning("Lambda" and "a" value), 
 and the second one is to optimize non-concave penalized likelihood function. So, this project includes two optimization problems and simulation results.
