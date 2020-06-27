@@ -1,4 +1,5 @@
 # Replication of SCAD article (J. Fan 2001 ): Variable selection with SCAD and simulation results
+"Jianqing Fan and Runze Li, Variable Selection via Nonconcave Penalized Likelihood and its Oracle Properties, 2001"
 
 Here, I studied about SCAD article("http://www.personal.psu.edu/ril4/research/penlike.pdf") and had tried to replicate it in R. 
 SCAD is a variation of LASSO, and this can be used for feature selection based on linear regression model.
